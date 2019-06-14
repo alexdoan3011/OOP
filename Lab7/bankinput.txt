@@ -1,0 +1,4 @@
+C John Smith 1231234 johnsmith@cst8132.com 100.5
+S Joe Blow 5551234 joeblow@cst8132.com 150.23 50.00
+C Jane Doe 9876543 janedoe@cst8132.com 5.76
+S Sally Smith 8765433 sally.smith@cst8132.com 0.01 10

@@ -1,0 +1,11 @@
+colorBashKeywords=0,128,0
+colorCommands=0,128,128
+colorDoubleStrings=255,128,64
+colorHereDocs=49,98,98
+colorHereStrings=88,98,98
+colorIncludeKeywords=128,128,0
+colorKnownVariables=97,97,97
+colorNormalText=192,192,192
+colorParameters=85,255,255
+colorSingleStrings=128,128,128
+eclipse.preferences.version=1

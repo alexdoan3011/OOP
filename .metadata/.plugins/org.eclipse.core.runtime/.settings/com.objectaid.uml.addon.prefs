@@ -1,0 +1,8 @@
+associations/java\:java.lang.ThreadLocal=0\:0..1
+associations/java\:java.util.Collection=0\:0..*
+associations/java\:java.util.Map=1\:0..*
+associations/java\:java.util.concurrent.Future=0\:0..1
+eclipse.preferences.version=1
+print.mode=1
+search.type=EXACT
+text.width.adjustment=0

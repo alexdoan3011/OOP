@@ -1,0 +1,10 @@
+a: Add new account
+u: Update an account
+d: Display an account
+p: Print all accounts
+m: Run monthly update
+q: Quit
+Enter your option: 
+Enter details of account holder 1
+=================================
+Enter account type (s for savings, c for chequing): 
