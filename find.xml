@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\assign3\src [assign3]'" />
-    <option name="defaultScopeName" value="Directory '...\assign3\src [assign3]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\assign3\src [assign3]'" />
+    <option name="customScope" value="File '...\assign4Generic\src\Assign4Generic.java [assign4Generic]'" />
+    <option name="defaultScopeName" value="File '...\assign4Generic\src\Assign4Generic.java [assign4Generic]'" />
+    <option name="SEARCH_SCOPE" value="File '...\assign4Generic\src\Assign4Generic.java [assign4Generic]'" />
   </component>
 </application>
