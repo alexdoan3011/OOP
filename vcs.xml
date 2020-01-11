@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="alex.doan3011@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hoang-10n/Pachisi" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Alex" />
   </component>
 </application>
